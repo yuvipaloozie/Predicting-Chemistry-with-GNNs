@@ -1,10 +1,10 @@
 # QM9 GNN: Utilizing Graph Neural Networks to Predict Chemical Properties
 
-![PyTorch](https://img.shields.io/badge/PyTorch-203858?style=flat-square)
-![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-203858?style=flat-square)
-![GCN](https://img.shields.io/badge/GCN-203858?style=flat-square)
-![GATv2](https://img.shields.io/badge/GATv2-203858?style=flat-square)
-![RDKit](https://img.shields.io/badge/RDKit-203858?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=for-the-badge)
+![GCN](https://img.shields.io/badge/GCN-3C2179?style=for-the-badge)
+![GATv2](https://img.shields.io/badge/GATv2-3C2179?style=for-the-badge)
+![RDKit](https://img.shields.io/badge/RDKit-287233?style=for-the-badge)
 
 This notebook compares graph convolutional and graph attention models for HOMO-LUMO gap prediction on QM9. It uses PyTorch Geometric for the GCN and GATv2 architectures, with RDKit descriptors to examine prediction errors by molecular structure.
 
